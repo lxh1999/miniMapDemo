@@ -42,5 +42,8 @@
     "scope.userLocation": {
       "desc": "你的位置信息将用于定位周边有效商家"
     }
+  },
+  "github":{
+    "test1":"1"
   }
 }
